@@ -5,7 +5,7 @@ This is a back end that is made for a mock E-COMMERCE website.
 
 ## Installation
 - Install node.js on your computer.
-- install mysql on your computer.
+- Install mysql on your computer.
 - Open any code editor, for example VSCode.
 - Open this project folder with the code editor.
 - Create a .env file inside the develop folder.
