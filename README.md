@@ -16,7 +16,7 @@ This is a back end that is made for a mock E-COMMERCE website.
 - Right click the develop folder and choose open in intergrated terminal.
 - Type npm install into the intergrated terminal.
 - Install these modules below by typing 'npm install' followed by the name of the module.
-    - sequilize.
+    - sequelize.
     - mysql2.
     - dotenv.
     - express.
