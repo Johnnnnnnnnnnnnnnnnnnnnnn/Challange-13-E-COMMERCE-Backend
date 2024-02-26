@@ -9,13 +9,13 @@ This is a back end that is made for a mock E-COMMERCE website.
 - Open any code editor, for example VSCode.
 - Open this project folder with the code editor.
 - Create a .env file inside the develop folder.
-- Inside the .env file, write 
+- Inside the .env file, write: 
     - DB_NAME='ecommerce_db'
     - DB_USER='Your MySQL Username'
     - DB_PW='Your MySQL Password'
 - Right click the develop folder and choose open in intergrated terminal.
 - Type npm install into the intergrated terminal.
-- Install these modules by typing npm install followed by the name of the module.
+- Install these modules below by typing 'npm install' followed by the name of the module.
     - sequilize.
     - mysql2.
     - dotenv.
